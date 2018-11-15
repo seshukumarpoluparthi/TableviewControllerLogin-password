@@ -14,6 +14,22 @@
 		2800EFA82182E150003BFCAD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2800EFA62182E150003BFCAD /* LaunchScreen.storyboard */; };
 		2800EFB32182E150003BFCAD /* Test11Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2800EFB22182E150003BFCAD /* Test11Tests.swift */; };
 		2800EFBE2182E150003BFCAD /* Test11UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2800EFBD2182E150003BFCAD /* Test11UITests.swift */; };
+		2811F71F219D3EDE0095D8DC /* LoginTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2811F71E219D3EDE0095D8DC /* LoginTableViewController.swift */; };
+		2811F736219D7B520095D8DC /* ic_eye_open.png in Resources */ = {isa = PBXBuildFile; fileRef = 2811F72D219D7B510095D8DC /* ic_eye_open.png */; };
+		2811F737219D7B520095D8DC /* ic_eye_open@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2811F72E219D7B510095D8DC /* ic_eye_open@3x.png */; };
+		2811F738219D7B520095D8DC /* ic_password_checkmark@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2811F72F219D7B510095D8DC /* ic_password_checkmark@3x.png */; };
+		2811F739219D7B520095D8DC /* ic_password_checkmark.png in Resources */ = {isa = PBXBuildFile; fileRef = 2811F730219D7B510095D8DC /* ic_password_checkmark.png */; };
+		2811F73A219D7B520095D8DC /* ic_password_checkmark@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2811F731219D7B510095D8DC /* ic_password_checkmark@2x.png */; };
+		2811F73B219D7B520095D8DC /* ic_eye_closed.png in Resources */ = {isa = PBXBuildFile; fileRef = 2811F732219D7B510095D8DC /* ic_eye_closed.png */; };
+		2811F73C219D7B520095D8DC /* ic_eye_open@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2811F733219D7B520095D8DC /* ic_eye_open@2x.png */; };
+		2811F73D219D7B520095D8DC /* ic_eye_closed@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2811F734219D7B520095D8DC /* ic_eye_closed@3x.png */; };
+		2811F73E219D7B520095D8DC /* ic_eye_closed@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2811F735219D7B520095D8DC /* ic_eye_closed@2x.png */; };
+		2811F741219D7B6B0095D8DC /* PasswordToggleVisibilityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2811F73F219D7B6B0095D8DC /* PasswordToggleVisibilityView.swift */; };
+		2811F742219D7B6B0095D8DC /* HideShowPasswordTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2811F740219D7B6B0095D8DC /* HideShowPasswordTextField.swift */; };
+		285EC5FB2189ADD700F1BF55 /* struct1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 285EC5FA2189ADD700F1BF55 /* struct1.swift */; };
+		285EC5FD2189B5C500F1BF55 /* struct2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 285EC5FC2189B5C500F1BF55 /* struct2.swift */; };
+		28EF1671219AFB2F00B551F9 /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28EF1670219AFB2F00B551F9 /* RoundButton.swift */; };
+		28EF1673219AFC8200B551F9 /* inspectableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28EF1672219AFC8200B551F9 /* inspectableView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +63,22 @@
 		2800EFB92182E150003BFCAD /* Test11UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Test11UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2800EFBD2182E150003BFCAD /* Test11UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test11UITests.swift; sourceTree = "<group>"; };
 		2800EFBF2182E150003BFCAD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2811F71E219D3EDE0095D8DC /* LoginTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginTableViewController.swift; sourceTree = "<group>"; };
+		2811F72D219D7B510095D8DC /* ic_eye_open.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_eye_open.png; sourceTree = "<group>"; };
+		2811F72E219D7B510095D8DC /* ic_eye_open@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_eye_open@3x.png"; sourceTree = "<group>"; };
+		2811F72F219D7B510095D8DC /* ic_password_checkmark@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_password_checkmark@3x.png"; sourceTree = "<group>"; };
+		2811F730219D7B510095D8DC /* ic_password_checkmark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_password_checkmark.png; sourceTree = "<group>"; };
+		2811F731219D7B510095D8DC /* ic_password_checkmark@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_password_checkmark@2x.png"; sourceTree = "<group>"; };
+		2811F732219D7B510095D8DC /* ic_eye_closed.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_eye_closed.png; sourceTree = "<group>"; };
+		2811F733219D7B520095D8DC /* ic_eye_open@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_eye_open@2x.png"; sourceTree = "<group>"; };
+		2811F734219D7B520095D8DC /* ic_eye_closed@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_eye_closed@3x.png"; sourceTree = "<group>"; };
+		2811F735219D7B520095D8DC /* ic_eye_closed@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_eye_closed@2x.png"; sourceTree = "<group>"; };
+		2811F73F219D7B6B0095D8DC /* PasswordToggleVisibilityView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PasswordToggleVisibilityView.swift; sourceTree = "<group>"; };
+		2811F740219D7B6B0095D8DC /* HideShowPasswordTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HideShowPasswordTextField.swift; sourceTree = "<group>"; };
+		285EC5FA2189ADD700F1BF55 /* struct1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = struct1.swift; sourceTree = "<group>"; };
+		285EC5FC2189B5C500F1BF55 /* struct2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = struct2.swift; sourceTree = "<group>"; };
+		28EF1670219AFB2F00B551F9 /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
+		28EF1672219AFC8200B551F9 /* inspectableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = inspectableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,12 +129,27 @@
 		2800EF9C2182E141003BFCAD /* Test11 */ = {
 			isa = PBXGroup;
 			children = (
-				2800EF9D2182E141003BFCAD /* AppDelegate.swift */,
+				2811F743219D85B00095D8DC /* passwordtxtfld */,
+				2811F732219D7B510095D8DC /* ic_eye_closed.png */,
+				2811F735219D7B520095D8DC /* ic_eye_closed@2x.png */,
+				2811F734219D7B520095D8DC /* ic_eye_closed@3x.png */,
+				2811F72D219D7B510095D8DC /* ic_eye_open.png */,
+				2811F733219D7B520095D8DC /* ic_eye_open@2x.png */,
+				2811F72E219D7B510095D8DC /* ic_eye_open@3x.png */,
+				2811F730219D7B510095D8DC /* ic_password_checkmark.png */,
+				2811F731219D7B510095D8DC /* ic_password_checkmark@2x.png */,
+				2811F72F219D7B510095D8DC /* ic_password_checkmark@3x.png */,
 				2800EF9F2182E141003BFCAD /* ViewController.swift */,
+				2800EF9D2182E141003BFCAD /* AppDelegate.swift */,
+				2811F71E219D3EDE0095D8DC /* LoginTableViewController.swift */,
 				2800EFA12182E141003BFCAD /* Main.storyboard */,
 				2800EFA42182E150003BFCAD /* Assets.xcassets */,
 				2800EFA62182E150003BFCAD /* LaunchScreen.storyboard */,
 				2800EFA92182E150003BFCAD /* Info.plist */,
+				285EC5FA2189ADD700F1BF55 /* struct1.swift */,
+				285EC5FC2189B5C500F1BF55 /* struct2.swift */,
+				28EF1670219AFB2F00B551F9 /* RoundButton.swift */,
+				28EF1672219AFC8200B551F9 /* inspectableView.swift */,
 			);
 			path = Test11;
 			sourceTree = "<group>";
@@ -123,6 +170,15 @@
 				2800EFBF2182E150003BFCAD /* Info.plist */,
 			);
 			path = Test11UITests;
+			sourceTree = "<group>";
+		};
+		2811F743219D85B00095D8DC /* passwordtxtfld */ = {
+			isa = PBXGroup;
+			children = (
+				2811F740219D7B6B0095D8DC /* HideShowPasswordTextField.swift */,
+				2811F73F219D7B6B0095D8DC /* PasswordToggleVisibilityView.swift */,
+			);
+			path = passwordtxtfld;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -230,8 +286,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				2800EFA82182E150003BFCAD /* LaunchScreen.storyboard in Resources */,
+				2811F736219D7B520095D8DC /* ic_eye_open.png in Resources */,
+				2811F73D219D7B520095D8DC /* ic_eye_closed@3x.png in Resources */,
 				2800EFA52182E150003BFCAD /* Assets.xcassets in Resources */,
+				2811F73E219D7B520095D8DC /* ic_eye_closed@2x.png in Resources */,
+				2811F737219D7B520095D8DC /* ic_eye_open@3x.png in Resources */,
+				2811F738219D7B520095D8DC /* ic_password_checkmark@3x.png in Resources */,
 				2800EFA32182E141003BFCAD /* Main.storyboard in Resources */,
+				2811F739219D7B520095D8DC /* ic_password_checkmark.png in Resources */,
+				2811F73A219D7B520095D8DC /* ic_password_checkmark@2x.png in Resources */,
+				2811F73C219D7B520095D8DC /* ic_eye_open@2x.png in Resources */,
+				2811F73B219D7B520095D8DC /* ic_eye_closed.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,7 +322,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				2800EFA02182E141003BFCAD /* ViewController.swift in Sources */,
+				2811F742219D7B6B0095D8DC /* HideShowPasswordTextField.swift in Sources */,
+				2811F741219D7B6B0095D8DC /* PasswordToggleVisibilityView.swift in Sources */,
+				28EF1673219AFC8200B551F9 /* inspectableView.swift in Sources */,
+				28EF1671219AFB2F00B551F9 /* RoundButton.swift in Sources */,
 				2800EF9E2182E141003BFCAD /* AppDelegate.swift in Sources */,
+				285EC5FB2189ADD700F1BF55 /* struct1.swift in Sources */,
+				285EC5FD2189B5C500F1BF55 /* struct2.swift in Sources */,
+				2811F71F219D3EDE0095D8DC /* LoginTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
