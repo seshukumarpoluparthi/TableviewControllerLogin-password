@@ -26,8 +26,19 @@
 		2811F73E219D7B520095D8DC /* ic_eye_closed@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2811F735219D7B520095D8DC /* ic_eye_closed@2x.png */; };
 		2811F741219D7B6B0095D8DC /* PasswordToggleVisibilityView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2811F73F219D7B6B0095D8DC /* PasswordToggleVisibilityView.swift */; };
 		2811F742219D7B6B0095D8DC /* HideShowPasswordTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2811F740219D7B6B0095D8DC /* HideShowPasswordTextField.swift */; };
+		28305EA721A419E9008AB06F /* SecViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28305EA621A419E9008AB06F /* SecViewController.swift */; };
+		283156DC21A94B1600375C9B /* JsonTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283156DB21A94B1600375C9B /* JsonTableViewCell.swift */; };
+		283156E021A9698300375C9B /* ModelObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283156DF21A9698300375C9B /* ModelObject.swift */; };
+		283156E221A969A400375C9B /* ZonesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 283156E121A969A400375C9B /* ZonesViewController.swift */; };
 		285EC5FB2189ADD700F1BF55 /* struct1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 285EC5FA2189ADD700F1BF55 /* struct1.swift */; };
 		285EC5FD2189B5C500F1BF55 /* struct2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 285EC5FC2189B5C500F1BF55 /* struct2.swift */; };
+		28A1061321A7F54500A4B108 /* DataSource.json in Resources */ = {isa = PBXBuildFile; fileRef = 28A1061221A7F54400A4B108 /* DataSource.json */; };
+		28A1061521A7F56000A4B108 /* JsonFileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28A1061421A7F56000A4B108 /* JsonFileViewController.swift */; };
+		28A1061721A7F6B500A4B108 /* Model_Json.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28A1061621A7F6B500A4B108 /* Model_Json.swift */; };
+		28A1061921A836A200A4B108 /* country.json in Resources */ = {isa = PBXBuildFile; fileRef = 28A1061821A836A200A4B108 /* country.json */; };
+		28A1061B21A8376300A4B108 /* Country_Obj.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28A1061A21A8376300A4B108 /* Country_Obj.swift */; };
+		28B8AF4721D0E9A1001DCA48 /* TVCxib.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28B8AF4521D0E9A1001DCA48 /* TVCxib.swift */; };
+		28B8AF4821D0E9A1001DCA48 /* TVCxib.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28B8AF4621D0E9A1001DCA48 /* TVCxib.xib */; };
 		28EF1671219AFB2F00B551F9 /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28EF1670219AFB2F00B551F9 /* RoundButton.swift */; };
 		28EF1673219AFC8200B551F9 /* inspectableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28EF1672219AFC8200B551F9 /* inspectableView.swift */; };
 /* End PBXBuildFile section */
@@ -75,8 +86,19 @@
 		2811F735219D7B520095D8DC /* ic_eye_closed@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ic_eye_closed@2x.png"; sourceTree = "<group>"; };
 		2811F73F219D7B6B0095D8DC /* PasswordToggleVisibilityView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PasswordToggleVisibilityView.swift; sourceTree = "<group>"; };
 		2811F740219D7B6B0095D8DC /* HideShowPasswordTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HideShowPasswordTextField.swift; sourceTree = "<group>"; };
+		28305EA621A419E9008AB06F /* SecViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecViewController.swift; sourceTree = "<group>"; };
+		283156DB21A94B1600375C9B /* JsonTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JsonTableViewCell.swift; sourceTree = "<group>"; };
+		283156DF21A9698300375C9B /* ModelObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelObject.swift; sourceTree = "<group>"; };
+		283156E121A969A400375C9B /* ZonesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZonesViewController.swift; sourceTree = "<group>"; };
 		285EC5FA2189ADD700F1BF55 /* struct1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = struct1.swift; sourceTree = "<group>"; };
 		285EC5FC2189B5C500F1BF55 /* struct2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = struct2.swift; sourceTree = "<group>"; };
+		28A1061221A7F54400A4B108 /* DataSource.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = DataSource.json; sourceTree = "<group>"; };
+		28A1061421A7F56000A4B108 /* JsonFileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JsonFileViewController.swift; sourceTree = "<group>"; };
+		28A1061621A7F6B500A4B108 /* Model_Json.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model_Json.swift; sourceTree = "<group>"; };
+		28A1061821A836A200A4B108 /* country.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = country.json; sourceTree = "<group>"; };
+		28A1061A21A8376300A4B108 /* Country_Obj.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Country_Obj.swift; sourceTree = "<group>"; };
+		28B8AF4521D0E9A1001DCA48 /* TVCxib.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TVCxib.swift; sourceTree = "<group>"; };
+		28B8AF4621D0E9A1001DCA48 /* TVCxib.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TVCxib.xib; sourceTree = "<group>"; };
 		28EF1670219AFB2F00B551F9 /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
 		28EF1672219AFC8200B551F9 /* inspectableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = inspectableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -129,16 +151,11 @@
 		2800EF9C2182E141003BFCAD /* Test11 */ = {
 			isa = PBXGroup;
 			children = (
+				28B8AF4421D0E958001DCA48 /* xib */,
+				283156DE21A9696C00375C9B /* jsonParsing */,
+				28A1061121A7F4FD00A4B108 /* jsonfileParsing */,
+				28305EA521A41999008AB06F /* I */,
 				2811F743219D85B00095D8DC /* passwordtxtfld */,
-				2811F732219D7B510095D8DC /* ic_eye_closed.png */,
-				2811F735219D7B520095D8DC /* ic_eye_closed@2x.png */,
-				2811F734219D7B520095D8DC /* ic_eye_closed@3x.png */,
-				2811F72D219D7B510095D8DC /* ic_eye_open.png */,
-				2811F733219D7B520095D8DC /* ic_eye_open@2x.png */,
-				2811F72E219D7B510095D8DC /* ic_eye_open@3x.png */,
-				2811F730219D7B510095D8DC /* ic_password_checkmark.png */,
-				2811F731219D7B510095D8DC /* ic_password_checkmark@2x.png */,
-				2811F72F219D7B510095D8DC /* ic_password_checkmark@3x.png */,
 				2800EF9F2182E141003BFCAD /* ViewController.swift */,
 				2800EF9D2182E141003BFCAD /* AppDelegate.swift */,
 				2811F71E219D3EDE0095D8DC /* LoginTableViewController.swift */,
@@ -177,8 +194,56 @@
 			children = (
 				2811F740219D7B6B0095D8DC /* HideShowPasswordTextField.swift */,
 				2811F73F219D7B6B0095D8DC /* PasswordToggleVisibilityView.swift */,
+				28305EA621A419E9008AB06F /* SecViewController.swift */,
 			);
 			path = passwordtxtfld;
+			sourceTree = "<group>";
+		};
+		28305EA521A41999008AB06F /* I */ = {
+			isa = PBXGroup;
+			children = (
+				2811F732219D7B510095D8DC /* ic_eye_closed.png */,
+				2811F735219D7B520095D8DC /* ic_eye_closed@2x.png */,
+				2811F734219D7B520095D8DC /* ic_eye_closed@3x.png */,
+				2811F72D219D7B510095D8DC /* ic_eye_open.png */,
+				2811F733219D7B520095D8DC /* ic_eye_open@2x.png */,
+				2811F72E219D7B510095D8DC /* ic_eye_open@3x.png */,
+				2811F730219D7B510095D8DC /* ic_password_checkmark.png */,
+				2811F731219D7B510095D8DC /* ic_password_checkmark@2x.png */,
+				2811F72F219D7B510095D8DC /* ic_password_checkmark@3x.png */,
+			);
+			path = I;
+			sourceTree = "<group>";
+		};
+		283156DE21A9696C00375C9B /* jsonParsing */ = {
+			isa = PBXGroup;
+			children = (
+				283156DF21A9698300375C9B /* ModelObject.swift */,
+				283156E121A969A400375C9B /* ZonesViewController.swift */,
+			);
+			path = jsonParsing;
+			sourceTree = "<group>";
+		};
+		28A1061121A7F4FD00A4B108 /* jsonfileParsing */ = {
+			isa = PBXGroup;
+			children = (
+				28A1061221A7F54400A4B108 /* DataSource.json */,
+				28A1061821A836A200A4B108 /* country.json */,
+				28A1061421A7F56000A4B108 /* JsonFileViewController.swift */,
+				28A1061621A7F6B500A4B108 /* Model_Json.swift */,
+				28A1061A21A8376300A4B108 /* Country_Obj.swift */,
+				283156DB21A94B1600375C9B /* JsonTableViewCell.swift */,
+			);
+			path = jsonfileParsing;
+			sourceTree = "<group>";
+		};
+		28B8AF4421D0E958001DCA48 /* xib */ = {
+			isa = PBXGroup;
+			children = (
+				28B8AF4521D0E9A1001DCA48 /* TVCxib.swift */,
+				28B8AF4621D0E9A1001DCA48 /* TVCxib.xib */,
+			);
+			path = xib;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -291,12 +356,15 @@
 				2800EFA52182E150003BFCAD /* Assets.xcassets in Resources */,
 				2811F73E219D7B520095D8DC /* ic_eye_closed@2x.png in Resources */,
 				2811F737219D7B520095D8DC /* ic_eye_open@3x.png in Resources */,
+				28A1061921A836A200A4B108 /* country.json in Resources */,
 				2811F738219D7B520095D8DC /* ic_password_checkmark@3x.png in Resources */,
 				2800EFA32182E141003BFCAD /* Main.storyboard in Resources */,
 				2811F739219D7B520095D8DC /* ic_password_checkmark.png in Resources */,
+				28B8AF4821D0E9A1001DCA48 /* TVCxib.xib in Resources */,
 				2811F73A219D7B520095D8DC /* ic_password_checkmark@2x.png in Resources */,
 				2811F73C219D7B520095D8DC /* ic_eye_open@2x.png in Resources */,
 				2811F73B219D7B520095D8DC /* ic_eye_closed.png in Resources */,
+				28A1061321A7F54500A4B108 /* DataSource.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -321,14 +389,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				28305EA721A419E9008AB06F /* SecViewController.swift in Sources */,
 				2800EFA02182E141003BFCAD /* ViewController.swift in Sources */,
+				28B8AF4721D0E9A1001DCA48 /* TVCxib.swift in Sources */,
+				283156E221A969A400375C9B /* ZonesViewController.swift in Sources */,
 				2811F742219D7B6B0095D8DC /* HideShowPasswordTextField.swift in Sources */,
 				2811F741219D7B6B0095D8DC /* PasswordToggleVisibilityView.swift in Sources */,
+				28A1061B21A8376300A4B108 /* Country_Obj.swift in Sources */,
+				283156DC21A94B1600375C9B /* JsonTableViewCell.swift in Sources */,
 				28EF1673219AFC8200B551F9 /* inspectableView.swift in Sources */,
 				28EF1671219AFB2F00B551F9 /* RoundButton.swift in Sources */,
 				2800EF9E2182E141003BFCAD /* AppDelegate.swift in Sources */,
 				285EC5FB2189ADD700F1BF55 /* struct1.swift in Sources */,
+				28A1061521A7F56000A4B108 /* JsonFileViewController.swift in Sources */,
+				28A1061721A7F6B500A4B108 /* Model_Json.swift in Sources */,
 				285EC5FD2189B5C500F1BF55 /* struct2.swift in Sources */,
+				283156E021A9698300375C9B /* ModelObject.swift in Sources */,
 				2811F71F219D3EDE0095D8DC /* LoginTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
